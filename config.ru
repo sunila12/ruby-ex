@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Hello and Welcome to your Ruby application on OpenShift</h1>
+            <h1>Hello and Welcome to my first CICD Pipeline on OpenShift</h1>
           </hgroup>
 
 
